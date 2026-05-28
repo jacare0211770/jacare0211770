@@ -10,7 +10,7 @@ e quero em meio ao curso poder ajudar meus colegas sempre por que aqui eu fiz um
 Deus abençoe sua vida poderosamente.
 FAMILIA PETROBRAS 2026
 Escrito por Kauan Moura da Silva
-MATEUS 13 
+deixei uma passagem para sermos boas pessoas'MATEUS 13 '
 
 ## 📫 Contato
 
