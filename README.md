@@ -1,3 +1,4 @@
+# Olá
 Prazer, primeiramente quero me apresentar elegantemente. Me chamo Kauan Moura da Silva, nascido no ano de 2007, na cidade de Porto Alegre. Atualmente moro em Canoas, com o objetivo de me desenvolver na área de produção de software em TI, buscando entrar no mercado de trabalho mais qualificado e adquirir conhecimentos em diversas áreas desse setor, que vem crescendo muito não só no Brasil, mas no mundo inteiro.
 
 Atualmente estou cursando o 3º ano do ensino médio. Também possuo curso de Administração e noções de vendas no mercado, além de uma visão ampla sobre comércios e empreendedorismo na área.
@@ -10,3 +11,10 @@ Deus abençoe sua vida poderosamente.
 FAMILIA PETROBRAS 2026
 Escrito por Kauan Moura da Silva
 MATEUS 13 
+
+## 📫 Contato
+
+<p align="center">
+ <a href="https://www.instagram.com/jacare__07/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
