@@ -1,5 +1,5 @@
 # Olá
-Prazer, primeiramente quero me apresentar elegantemente. Me chamo Kauan Moura da Silva, nascido no ano de 2007, na cidade de Porto Alegre. Atualmente moro em Canoas, com o objetivo de me desenvolver na área de produção de software em TI, buscando entrar no mercado de trabalho mais qualificado e adquirir conhecimentos em diversas áreas desse setor, que vem crescendo muito não só no Brasil, mas no mundo inteiro.
+Prazer, primeiramente quero me apresentar elegantemente. Me chamo Kauan Moura da Silva, nascido no ano de 2007, na cidade de Porto Alegre. Atualmente moro em Canoas, com o objetivo de me desenvolver na área de produção de software em TI, buscando entrar no mercado de trabalho mais qualificado e adquirir conhecimentos em diversas áreas desse setor cursando o curso full stack , que vem crescendo muito não só no Brasil, mas no mundo inteiro.
 
 Atualmente estou cursando o 3º ano do ensino médio. Também possuo curso de Administração e noções de vendas no mercado, além de uma visão ampla sobre comércios e empreendedorismo na área.
 
